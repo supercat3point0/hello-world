@@ -17,4 +17,4 @@ edit
 3. three
    1. hi
 
-![Mew Mew](/resouces/images/Mew Mew Kissy Cutie.jpg)
+![Mew Mew](/resouces/images/Mew_Mew_Kissy_Cutie.jpg)
