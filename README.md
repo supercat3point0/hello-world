@@ -1,4 +1,4 @@
-https://img.shields.io/github/issues/supercat3point0/hello-world
+[![GitHub issues](https://img.shields.io/github/issues/supercat3point0/hello-world)](https://github.com/supercat3point0/hello-world/issues) [![GitHub forks](https://img.shields.io/github/forks/supercat3point0/hello-world)](https://github.com/supercat3point0/hello-world/network) [![GitHub stars](https://img.shields.io/github/stars/supercat3point0/hello-world?style=social)](https://github.com/supercat3point0/hello-world/stargazers)
 
 # hello-world
 test repository
